@@ -11,7 +11,6 @@
 </head>
 <body>
 	<h1> Welcome to the Gas Calculator</h1>
-	<img src="fill.gif" height="420" width="420">
 	<a href="/mileage-form"> Get remaining fuel</a>
 </body>
 </html>!
